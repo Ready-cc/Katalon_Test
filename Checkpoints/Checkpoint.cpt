@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/XZ_YG_DATA</source-url>
+   </source-info>
+   <taken-date>2019-05-29T19:04:50.73</taken-date>
+   <column-names>
+      <column-name>mobile</column-name>
+      <column-name>id_no</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "18610011004",
+      "checked": true
+    },
+    {
+      "value": "110101199003072658",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "18610011005",
+      "checked": false
+    },
+    {
+      "value": "110101199003072631",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "18610011006",
+      "checked": false
+    },
+    {
+      "value": "11010119900307037X",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "18610011007",
+      "checked": false
+    },
+    {
+      "value": "110101199003072279",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "18610011008",
+      "checked": false
+    },
+    {
+      "value": "110101199003077838",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "18610011009",
+      "checked": false
+    },
+    {
+      "value": "110101199003077416",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "18610011010",
+      "checked": false
+    },
+    {
+      "value": "110101199003079235",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "18610011011",
+      "checked": true
+    },
+    {
+      "value": "110101199003079630",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "18610011012",
+      "checked": false
+    },
+    {
+      "value": "110101199003072113",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "18610011013",
+      "checked": false
+    },
+    {
+      "value": "110101199003070134",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "18610011014",
+      "checked": false
+    },
+    {
+      "value": "110101199003079315",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "18610011015",
+      "checked": false
+    },
+    {
+      "value": "110101199003075453",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "18610011016",
+      "checked": false
+    },
+    {
+      "value": "110101199003074936",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "18610011017",
+      "checked": false
+    },
+    {
+      "value": "110101199003074717",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "18610011018",
+      "checked": false
+    },
+    {
+      "value": "110101199003071057",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "18610011019",
+      "checked": false
+    },
+    {
+      "value": "110101199003072711",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "18610011020",
+      "checked": false
+    },
+    {
+      "value": "110101199003077096",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

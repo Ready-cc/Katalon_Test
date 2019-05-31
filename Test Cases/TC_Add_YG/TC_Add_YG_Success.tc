@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Add_YG_Success</name>
+   <tag>YG</tag>
+   <comment></comment>
+   <testCaseGuid>4e49f350-f0f1-481e-869e-0174b5e7ae75</testCaseGuid>
+</TestCaseEntity>
